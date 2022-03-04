@@ -7,7 +7,7 @@ namespace HelloWorldApplication
     static void Main(string[] args)
     {
       Console.WriteLine("Hello World!");
-      Console.ReadKey();
+      // Console.ReadKey(); not needed
     }
   }
 }
